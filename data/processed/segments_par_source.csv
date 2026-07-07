@@ -1,0 +1,6 @@
+traffic_source,page_views,session_duration,bounce_rate,time_on_page,previous_visits,conversion_rate
+Direct,4.963,2.692,0.285,3.949,2.074,0.979
+Organic,5.025,3.104,0.282,3.978,1.985,0.982
+Paid,4.944,2.943,0.296,4.087,2.035,0.979
+Referral,4.983,3.125,0.266,3.985,1.944,0.988
+Social,4.695,3.057,0.296,4.188,1.833,0.983
