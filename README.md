@@ -10,10 +10,10 @@ Pipeline complet de collecte, traitement, stockage et analyse de données de tra
 | Membre | Rôle |
 |--------|------|
 | ndi-git | Chef de projet |
-| ahmadgueye | Collecte des données |
+| sowlou | Collecte des données |
 | gsidibeisidk-web | Traitement des données |
 | AntaDiagne01 | Stockage des données |
-| sowlou | Analyse et Visualisation |
+| ahmadgueye | Analyse et Visualisation |
 
 ---
 
