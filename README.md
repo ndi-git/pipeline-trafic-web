@@ -30,22 +30,21 @@ Pipeline complet de collecte, traitement, stockage et analyse de données de tra
 | Gestion projet | Trello |
 
 ---
-
 ## Structure du projet
 
+```
 pipeline-trafic-web/
 ├── data/
 │   ├── raw/              # Données brutes (Kaggle)
 │   └── processed/        # Données nettoyées et agrégées
 ├── notebooks/            # Analyse exploratoire (Jupyter)
-├── scripts/              # Scripts Python
+├── scripts/
 │   ├── traitement.py     # Nettoyage des données
 │   └── stockage.py       # Upload vers Amazon S3
 ├── docs/                 # Rapport final
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Installation
 
